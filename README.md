@@ -1,5 +1,7 @@
 # Supply_Chain_Management
 
+![Demand-Management-In-Supply-Chain-980x600](https://github.com/Ameena-Farzana/Supply_Chain_Management/assets/121862099/3e961933-641f-4cbf-9263-817328423ad9)
+
 
 #### Overview
 This project focuses on improving the supply chain management of a Fast Moving Consumer Goods (FMCG) company, specifically in the instant noodles business. The company has identified a significant mismatch between demand and supply, leading to losses in inventory costs. The primary goal of this project is to optimize the supply quantity in each warehouse across the entire country.
